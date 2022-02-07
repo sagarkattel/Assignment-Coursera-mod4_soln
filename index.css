@@ -1,0 +1,20 @@
+body{
+    background-color: aquamarine;
+}
+h1{
+    color: brown;
+    text-align: center;
+}
+p{
+    color:red;
+}
+.fir,.sec{
+    font-size: large;
+    text-align: center;
+}
+.nice{
+    text-decoration: underline;
+}
+ul{
+    color: green;
+}
